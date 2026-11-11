@@ -1,2 +1,2 @@
 ## Iterator Pattern
-<img src="./01_Iterator.png" max-width="700">
+<img src="./01_Iterator.png" max-width="600">

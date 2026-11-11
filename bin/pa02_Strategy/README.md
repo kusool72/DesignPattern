@@ -1,2 +1,2 @@
 ## Strategy Pattern
-<img src="./02_Strategy.png" max-width="700">
+<img src="./02_Strategy.png" max-width="600">
