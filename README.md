@@ -1,7 +1,7 @@
 https://www.youtube.com/playlist?list=PLe6NQuuFBu7FhPfxkjDd2cWnTy2y_w_jZ<br>
 헤드퍼스트 : https://github.com/yoonsanghyuk/headfirst_designPatterns
 
-01. Iterator
+01. Iterator(./pa01_Iterator)
 02. Strategy
 03. Template
 04. Adapter
